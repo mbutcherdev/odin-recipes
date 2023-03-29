@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(6, 148, 124);
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: "Akaya Kanadaka", Calibri, Tahoma, sans-serif;
+}
+
+p {
+  color: rgb(181, 161, 52);
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: 400px;
+}
